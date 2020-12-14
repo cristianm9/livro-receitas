@@ -2,8 +2,8 @@
 
 #### 								Olá! Bem vindo ao livro de receitas :man_cook:
 
-- Strogonoff de frango
-- 
+- Strogonoff de frango.
+- Pavê.
 
 
 
